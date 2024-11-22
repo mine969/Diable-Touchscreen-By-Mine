@@ -10,7 +10,8 @@ and you can use the provided powershell script in powershell to enable and run a
 Optional !!
 For ROG ALLY parts
 
-Disclaimer 
+**Disclaimer **
+
 I'd tried with my own method for convient using because it need to edit UAC setting to lowest level  
 
 With My Purpose of create for more convient I tried
@@ -18,8 +19,11 @@ With My Purpose of create for more convient I tried
 -Reduced the UAC setting to lowest(avoid asking yes or no)
 
 -run the provided batch file and link the path to powershell script file (U need to edit path in batch file to ur ps location).
+
 -Convert into and exe file(Bat to EXE converter) u can add desire logo 
+
 -Add to Armorcrate and mark as Favourite and Enjoy 
+
 
 I uploaded the sample exe file that I created 
 Feel free to ask me
